@@ -1,0 +1,52 @@
+﻿Problem1:
+Step1:
+	the null hypothesis is that 75% of the students will become knowledgeable 	about the course information
+
+	the alternative hypothesis is that percentage of students who will become 	knowledgeable about the course information is not 75%
+
+step2:
+
+	engagement 0:
+
+	the sample size is:1977
+	the sample mean is:0.6399545077035914
+	the standard error is : 0.005715989588773277
+	the z-score is: -19.252220562568542
+	the p value is: 1.352401028607762e-82
+
+	the results are significant at 0.1, 0.05 and at 0.01
+
+	engagement 1:
+
+	the sample size is:937
+	the sample mean is:0.7430304110448239
+	the standard error is :0.004153027288269652
+	the z-score is: -1.6781948375012814
+	the p value is: 0.09330906925243751
+
+	the results are significant at 0.1 and at 0.05
+
+step3:
+
+	engagement 0:
+
+	maximum error in the given condition is 0.05614669104352599	
+	
+	engagement 1:
+
+	maximum error in the given condition is 0.003555978074164272
+step4:
+	null:
+	the mean engagement between engagement_1 dataset and engagement_0 datasets 	are different
+	
+	alternative:
+	the mean engagement between engagement_1 dataset and engagement_0 datasets 	`are not different	
+	
+	we can test this by using the 2 sample test
+
+step 5:
+	the sample size of engagement_0 is:1977
+	the sample size of engagement_1 is:937
+	the sample size of both engagements together is is:2914
+	the sample mean of the 2 sample test is:0.0282199990542063235
+	

@@ -1,0 +1,34 @@
+﻿Problem 2:
+
+Step 1:
+we use the z-score test
+with 90% confidence interval:
+	
+	sample size: 11
+	sample mean: 8.181818181818182
+	standard error: 5.337377942940253
+	z score: 1.6448536269514722
+	p value: 0.100000000000000009
+	the confidence interval is [-0.5973872860378808, 16.961023649674246]
+Step 2:
+we use the z-score test
+with 95% confidence interval:
+	
+	sample size: 11
+	sample mean: 8.181818181818182
+	standard error: 5.337377942940253
+	z score: 1.959963984540054
+	p value: 0.05
+	the confidence interval is [-2.2792503582231944, 18.642886721859558]
+Step 3:
+we use the either the z or t test now because we know the standard dev, but I will use z:
+	
+	sample size: 11
+	sample mean: 8.181818181818182
+	standard error: 5.337377942940253
+	z score: 1.959963984540054
+	p value: 0.05
+	the confidence interval is [-2.2792503582231944, 18.642886721859558]
+this is the same as part 2 because the standard deviation was not implemented in any of the calculations, it only plays a role in t tests
+
+Step 4:
